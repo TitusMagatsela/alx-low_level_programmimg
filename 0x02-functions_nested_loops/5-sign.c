@@ -16,7 +16,7 @@ int print_sign(int n)
 	}
 	else if
 	{
-		_putchar('0');
+		_putchar('o');
 		return (0);
 	}
 	else
