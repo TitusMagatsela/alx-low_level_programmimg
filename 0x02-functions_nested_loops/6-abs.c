@@ -5,7 +5,7 @@
  * @t: The interger to be computed
  * Return: The absolute value
  */
-int _ab(int t)
+int _abs(int t)
 {
 	if (t >= 0)
 		return (t);
