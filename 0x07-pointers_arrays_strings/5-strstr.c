@@ -1,4 +1,4 @@
-#include "maqin.h"
+#include "main.h"
 
 /**
  * _strstr - Entry point
